@@ -9,9 +9,9 @@ routes:
 
 Diese Seite listet einige Tipps und Richtlinien auf, die jeder YunoHost-Administrator kennen sollte, um sich um seinen Server zu kümmern :).
 
-## YunoHost nicht kaputt machen
+## YunoHost nicht beschädigen.
 
-Das heißt : Entweder ist der Server für den Betreib vorgesehen, oder ein Testserver, auf dem Sie sich erlauben, zu experimentieren.
+Das heißt : Entweder ist der Server für den Betrieb vorgesehen, oder ein Testserver, auf dem Sie sich erlauben, zu experimentieren.
 
 Ist Ihr Ziel, einen Produktionserver zu benutzen, so beachten Sie folgendes :
 
